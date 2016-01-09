@@ -14,7 +14,7 @@ index e69de29..5cf944b 100644
 +  csslint:
 +    enabled: true
 +  duplication:
-+    enabled: true
++    enabled: false
 +    config:
 +      languages:
 +      - ruby
