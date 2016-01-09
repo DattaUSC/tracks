@@ -7,6 +7,8 @@ index e69de29..5cf944b 100644
 +engines:
 +  brakeman:
 +    enabled: true
++    exclude_fingerprints:
++    - ca7ff69feaae075d63d058c73319628e5208c76cb716319f528564bf67e85858
 +  bundler-audit:
 +    enabled: true
 +  csslint:
