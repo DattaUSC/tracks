@@ -221,7 +221,6 @@ class ConsoleOptionsForTemplate
   def initialize
     @options = {}
     @keywords = {}
-
     @parser = OptionParser.new do |cmd|
       cmd.banner = "Ruby Gtd Templates CLI"
 
